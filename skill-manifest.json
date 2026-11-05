@@ -1,0 +1,26 @@
+{
+  "repository": "ai-coding-agent-studio",
+  "title": "AI Coding Agent Studio",
+  "master_skill": "ai-coding-agent-studio",
+  "discoverable_skills": 1,
+  "internal_modules": [
+    "ai-agent-architect.md",
+    "coding-agent-engineer.md",
+    "mcp-server-engineer.md",
+    "function-calling-engineer.md",
+    "multi-agent-engineer.md",
+    "agent-memory-engineer.md",
+    "codebase-intelligence.md",
+    "human-centered-product-design.md",
+    "design-quality-critic.md",
+    "product-experience-engineer.md",
+    "INDEX.md"
+  ],
+  "module_count": 10,
+  "human_centered_modules": [
+    "human-centered-product-design",
+    "design-quality-critic",
+    "product-experience-engineer"
+  ],
+  "note": "Internal modules are reference playbooks, not separate discoverable skills."
+}
